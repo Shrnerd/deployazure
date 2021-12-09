@@ -1,0 +1,2 @@
+# deployazure
+azure deploy
